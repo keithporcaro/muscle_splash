@@ -1,0 +1,31 @@
+.random{
+    cursor: pointer;
+    background: #00449e;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3rem;
+    display: inline-block;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem; 
+    margin-top: 3rem;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    border-radius: 4px;
+}
+
+.picked{
+   font-size: 5rem; 
+}
+
+#viewer{
+   margin:10% auto;
+    max-width: 1000px
+}
+
+body{
+    background-color: #222;
+    color: white
+}
